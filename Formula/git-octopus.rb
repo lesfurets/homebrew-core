@@ -1,8 +1,8 @@
 class GitOctopus < Formula
   desc "Extends git-merge with branch naming patterns"
   homepage "https://github.com/lesfurets/git-octopus"
-  url "https://github.com/lesfurets/git-octopus/archive/v1.2.1.tar.gz"
-  sha256 "eb289838aa9acbb9c81bed23dbd98aeada5e7ab5bbd914fdd7a5d4a92b53891d"
+  url "https://github.com/lesfurets/git-octopus/archive/v1.3.tar.gz"
+  sha256 "c1f82b9b1cfb9ee531b66119c04f71dc7186521fa4e02598555f431319db9e9b"
 
   bottle do
     cellar :any_skip_relocation
